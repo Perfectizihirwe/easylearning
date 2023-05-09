@@ -46,7 +46,7 @@ function App() {
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
           <a href="index.html" class="navbar-brand ml-lg-3">
             <h1 class="m-0 text-uppercase text-primary">
-              <i class="fa fa-book-reader mr-3"></i>Edukate
+              <i class="fa fa-book-reader mr-3"></i>EasyLearning
             </h1>
           </a>
           <button
@@ -850,7 +850,7 @@ function App() {
             <div class="col-md-6 mb-5">
               <a href="index.html" class="navbar-brand">
                 <h1 class="mt-n2 text-uppercase text-white">
-                  <i class="fa fa-book-reader mr-3"></i>Edukate
+                  <i class="fa fa-book-reader mr-3"></i>EasyLearning
                 </h1>
               </a>
               <p class="m-0">
