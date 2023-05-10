@@ -6,7 +6,6 @@ import { About } from "./pages/About";
 import { Courses } from "./pages/Courses";
 import { Details } from "./pages/Details";
 import { Login } from "./pages/Login";
-import { DashboardHome } from "./pages/DashboardHome";
 
 function App() {
   return (
