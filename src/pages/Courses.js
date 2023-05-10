@@ -38,7 +38,7 @@ export const Courses = () => {
 
       <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-          <a href="index.html" class="navbar-brand ml-lg-3">
+          <a href="/" class="navbar-brand ml-lg-3">
             <h1 class="m-0 text-uppercase text-primary">
               <i class="fa fa-book-reader mr-3"></i>EasyLearning
             </h1>
@@ -56,43 +56,17 @@ export const Courses = () => {
             id="navbarCollapse"
           >
             <div class="navbar-nav mx-auto py-0">
-              <a href="index.html" class="nav-item nav-link">
+              <a href="/" class="nav-item nav-link">
                 Home
               </a>
-              <a href="about.html" class="nav-item nav-link">
+              <a href="about" class="nav-item nav-link">
                 About
               </a>
-              <a href="course.html" class="nav-item nav-link active">
+              <a href="courses" class="nav-item nav-link active">
                 Courses
               </a>
-              <div class="nav-item dropdown">
-                <a
-                  href="#"
-                  class="nav-link dropdown-toggle"
-                  data-toggle="dropdown"
-                >
-                  Pages
-                </a>
-                <div class="dropdown-menu m-0">
-                  <a href="detail.html" class="dropdown-item">
-                    Course Detail
-                  </a>
-                  <a href="feature.html" class="dropdown-item">
-                    Our Features
-                  </a>
-                  <a href="team.html" class="dropdown-item">
-                    Instructors
-                  </a>
-                  <a href="testimonial.html" class="dropdown-item">
-                    Testimonial
-                  </a>
-                </div>
-              </div>
-              <a href="contact.html" class="nav-item nav-link">
-                Contact
-              </a>
             </div>
-            <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">
+            <a href="login" class="btn btn-primary py-2 px-4 d-none d-lg-block">
               Join Us
             </a>
           </div>
@@ -178,7 +152,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-1.jpg" alt="" />
                 <div class="courses-text">
@@ -202,7 +176,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-2.jpg" alt="" />
                 <div class="courses-text">
@@ -226,7 +200,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-3.jpg" alt="" />
                 <div class="courses-text">
@@ -250,7 +224,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-4.jpg" alt="" />
                 <div class="courses-text">
@@ -274,7 +248,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-5.jpg" alt="" />
                 <div class="courses-text">
@@ -298,7 +272,7 @@ export const Courses = () => {
             <div class="col-lg-4 col-md-6 pb-4">
               <a
                 class="courses-list-item position-relative d-block overflow-hidden mb-2"
-                href="detail.html"
+                href="details"
               >
                 <img class="img-fluid" src="img/courses-6.jpg" alt="" />
                 <div class="courses-text">
@@ -368,7 +342,7 @@ export const Courses = () => {
         <div class="container mt-5 pt-5">
           <div class="row">
             <div class="col-md-6 mb-5">
-              <a href="index.html" class="navbar-brand">
+              <a href="/" class="navbar-brand">
                 <h1 class="mt-n2 text-uppercase text-white">
                   <i class="fa fa-book-reader mr-3"></i>EasyLearning
                 </h1>
