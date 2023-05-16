@@ -5,7 +5,7 @@ export const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    navigate("/courses");
+    window.location.href = "https://easylearningdashboard.vercel.app/";
   };
 
   return (
@@ -66,7 +66,22 @@ export const Login = () => {
                     <a href="#">Forgot password?</a>
                   </div>
                   <div class="button1 input-box1">
-                    <input type="submit" value="Submit" onClick={handleLogin} />
+                    <a
+                      style={{
+                        color: "white",
+                        textDecoration: "none",
+                        cursor: "pointer",
+                        backgroundColor: "#007bff",
+                        padding: "10px 20px",
+                        width: "100%",
+                        textAlign: "center",
+                        fontWeight: "bold",
+                        borderRadius: "5px",
+                      }}
+                      href="https://easylearningdashboard.vercel.app/"
+                    >
+                      Login
+                    </a>
                   </div>
                   <div class="text1 sign-up-text1">
                     Don't have an account? <label for="flip">Sigup now</label>
