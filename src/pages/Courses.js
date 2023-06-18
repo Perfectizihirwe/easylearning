@@ -8,11 +8,11 @@ export const Courses = () => {
           <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
             <div class="d-inline-flex align-items-center text-white">
               <small>
-                <i class="fa fa-phone-alt mr-2"></i>+012 345 6789
+                <i class="fa fa-phone-alt mr-2"></i>+250 788 233 560
               </small>
               <small class="px-3">|</small>
               <small>
-                <i class="fa fa-envelope mr-2"></i>info@example.com
+                <i class="fa fa-envelope mr-2"></i>kevineineza@gmail.com
               </small>
             </div>
           </div>
@@ -69,7 +69,7 @@ export const Courses = () => {
               </a>
             </div>
             <a href="login" class="btn btn-primary py-2 px-4 d-none d-lg-block">
-              Join Us
+              Enroll Now
             </a>
           </div>
         </nav>
@@ -104,23 +104,9 @@ export const Courses = () => {
                 <button
                   class="btn btn-outline-light bg-white text-body px-4 dropdown-toggle"
                   type="button"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
                 >
                   Courses
                 </button>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">
-                    Courses 1
-                  </a>
-                  <a class="dropdown-item" href="#">
-                    Courses 2
-                  </a>
-                  <a class="dropdown-item" href="#">
-                    Courses 3
-                  </a>
-                </div>
               </div>
               <input
                 type="text"
@@ -234,9 +220,10 @@ export const Courses = () => {
                 </h1>
               </a>
               <p class="m-0">
-                Accusam nonumy clita sed rebum kasd eirmod elitr. Ipsum ea lorem
-                at et diam est, tempor rebum ipsum sit ea tempor stet et
-                consetetur dolores. Justo stet diam ipsum lorem vero clita diam
+                EasyLearning is a personal development platform that allows you
+                to access your training records, book training and receive
+                reminders. It is an e-learning website that can be accessed from
+                anywhere via the web.
               </p>
             </div>
             <div class="col-md-6 mb-5">
@@ -262,14 +249,14 @@ export const Courses = () => {
             <div class="col-md-4 mb-5">
               <h3 class="text-white mb-4">Get In Touch</h3>
               <p>
-                <i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York,
-                USA
+                <i class="fa fa-map-marker-alt mr-2"></i>24V3+QPF, Kigali AUCA
+                Gishushu, USA
               </p>
               <p>
-                <i class="fa fa-phone-alt mr-2"></i>+012 345 67890
+                <i class="fa fa-phone-alt mr-2"></i>+250 788 233 560
               </p>
               <p>
-                <i class="fa fa-envelope mr-2"></i>info@example.com
+                <i class="fa fa-envelope mr-2"></i>kevineineza@gmail.com
               </p>
               <div class="d-flex justify-content-start mt-4">
                 <a class="text-white mr-4" href="#">
@@ -325,34 +312,6 @@ export const Courses = () => {
                   <i class="fa fa-angle-right mr-2"></i>Contact
                 </a>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div
-        class="container-fluid bg-dark text-white-50 border-top py-4"
-        style={{
-          borderColor: "rgba(256, 256, 256, .1) !important",
-        }}
-      >
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-              <p class="m-0">
-                Copyright &copy;{" "}
-                <a class="text-white" href="#">
-                  Your Site Name
-                </a>
-                . All Rights Reserved.
-              </p>
-            </div>
-            <div class="col-md-6 text-center text-md-right">
-              <p class="m-0">
-                Designed by{" "}
-                <a class="text-white" href="https://htmlcodex.com">
-                  HTML Codex
-                </a>
-              </p>
             </div>
           </div>
         </div>
