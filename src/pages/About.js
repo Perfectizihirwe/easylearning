@@ -151,13 +151,12 @@ export const About = () => {
                 </h1>
               </div>
               <p>
-                Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam
-                dolor diam ipsum et, tempor voluptua sit consetetur sit.
-                Aliquyam diam amet diam et eos sadipscing labore. Clita erat
-                ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                clita duo justo et tempor consetetur takimata eirmod, dolores
-                takimata consetetur invidunt magna dolores aliquyam dolores
-                dolore. Amet erat amet et magna
+                We invite you to embark on this extraordinary educational
+                journey with us. Applying to EASYLEARNING is a simple and
+                seamless process. Please review the enclosed admission
+                requirements and deadlines, and do not hesitate to contact our
+                admissions team with any questions. We look forward to welcoming
+                you to our school community.
               </p>
               <div class="row pt-3 mx-0">
                 <div class="col-3 px-0">
@@ -219,10 +218,14 @@ export const About = () => {
                 </h1>
               </div>
               <p class="mb-4 pb-2">
-                Aliquyam accusam clita nonumy ipsum sit sea clita ipsum clita,
-                ipsum dolores amet voluptua duo dolores et sit ipsum rebum,
-                sadipscing et erat eirmod diam kasd labore clita est. Diam
-                sanctus gubergren sit rebum clita amet.
+                We embrace the individuality of each student and offer
+                comprehensive support systems to ensure their holistic
+                development. Our dedicated faculty and staff provide
+                personalized guidance, nurturing every student's unique
+                strengths and assisting them in overcoming challenges. We offer
+                a range of counseling services, mentorship programs, and
+                leadership opportunities to help students discover their true
+                potential.
               </p>
               <div class="d-flex mb-3">
                 <div class="btn-icon bg-primary mr-4">
@@ -231,9 +234,9 @@ export const About = () => {
                 <div class="mt-n1">
                   <h4>Skilled Instructors</h4>
                   <p>
-                    Labore rebum duo est Sit dolore eos sit tempor eos stet,
-                    vero vero clita magna kasd no nonumy et eos dolor magna
-                    ipsum.
+                    Our instructors are hand picked from the most prestigious
+                    universities in the world. They are highly skilled and
+                    experienced educators who are passionate about teaching.
                   </p>
                 </div>
               </div>
@@ -244,9 +247,9 @@ export const About = () => {
                 <div class="mt-n1">
                   <h4>International Certificate</h4>
                   <p>
-                    Labore rebum duo est Sit dolore eos sit tempor eos stet,
-                    vero vero clita magna kasd no nonumy et eos dolor magna
-                    ipsum.
+                    At the end of a course you receive a highly recognised
+                    certificate that you can use to get a job or start your own
+                    business.
                   </p>
                 </div>
               </div>
@@ -257,9 +260,8 @@ export const About = () => {
                 <div class="mt-n1">
                   <h4>Online Classes</h4>
                   <p class="m-0">
-                    Labore rebum duo est Sit dolore eos sit tempor eos stet,
-                    vero vero clita magna kasd no nonumy et eos dolor magna
-                    ipsum.
+                    Our classes are fully virtual allowing access from anywhere
+                    in the world
                   </p>
                 </div>
               </div>
